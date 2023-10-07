@@ -1,4 +1,4 @@
-# Webbpack Express Example App
+# Webpack Express Example App
 
 The goal of this repo is be an example of a basic but functional app built on Express and Webpack.
 
@@ -10,8 +10,6 @@ If you want to follow along with the course, you will start from the master and 
 - [4-webpack-plugins](https://github.com/udacity/fend-webpack-content/tree/4-webpack-plugins)
 - [5-webpack-mode](https://github.com/udacity/fend-webpack-content/tree/5-webpack-mode)
 - [6-webpack-for-convenience](https://github.com/udacity/fend-webpack-content/tree/6-webpack-for-convenience)
-
-Each one is a step along the path to creating a fully functional webpack setup. In each branch, there will be a documentation file that lists out the steps taken in that branch (each step is also a git commit if you look at the history) which you can use as a checklist when setting up your own projects. 
 
 ## Get Up and Running
 
